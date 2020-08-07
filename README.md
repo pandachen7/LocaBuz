@@ -1,6 +1,6 @@
 # loca_buz
 
-Get location and emit something
+A Flutter APP for getting location updates even when the app is in background. Control something with bluetooth if user's location is in the hot spot (ry
 
 ## Getting Started
 
