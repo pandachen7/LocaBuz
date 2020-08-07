@@ -390,7 +390,7 @@ class _MyAppState extends State<MyApp> {
     if (isRunning != null) {
       if (isRunning) {
         // TODO: add heatmap of something
-        msgStatus = 'Activated.'; //  But you are not in Heatmap
+        msgStatus = 'Activated.';
       } else {
         msgStatus = 'Deactivated';
       }
